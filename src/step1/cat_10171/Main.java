@@ -1,4 +1,4 @@
-package cat;
+package step1.cat_10171;
 
 public class Main {
 
